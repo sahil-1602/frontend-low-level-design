@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-10-19T06:55:50.627Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.0.5" etag="sJdII-BwePKBrxSnGF7V" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-19T07:32:05.601Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="UzsvdNHapvcrnkEStfao" version="22.0.5" type="github">
   <diagram name="Page-1" id="LoNBh_u9TKbz5KjlPT68">
-    <mxGraphModel>
+    <mxGraphModel dx="662" dy="391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4550" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XdiqxqH-_K5ETE9k2q-7-1" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Functional Requirements&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ol&gt;&lt;li&gt;User input on input field&lt;br&gt;&lt;/li&gt;&lt;li&gt;Suggestion based on user query (img with text)&lt;/li&gt;&lt;li&gt;Generic component, can be reusable across different websites&lt;/li&gt;&lt;li&gt;Input feild and suggestions style can be customizable&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;align=left;" vertex="1" parent="1">
+          <mxGeometry x="10" y="200" width="300" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="XdiqxqH-_K5ETE9k2q-7-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XdiqxqH-_K5ETE9k2q-7-2" target="XdiqxqH-_K5ETE9k2q-7-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XdiqxqH-_K5ETE9k2q-7-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0A0A0A;" vertex="1" parent="1">
+          <mxGeometry x="420" y="70" width="355" height="355" as="geometry" />
+        </mxCell>
+        <mxCell id="XdiqxqH-_K5ETE9k2q-7-4" value="INPUT FIELD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="472.5" y="140" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XdiqxqH-_K5ETE9k2q-7-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#0A0A0A;" vertex="1" parent="1">
+          <mxGeometry x="472.5" y="200" width="247.5" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="XdiqxqH-_K5ETE9k2q-7-7" value="Suggestion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="481.25" y="231.25" width="230" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="XdiqxqH-_K5ETE9k2q-7-8" value="Suggestion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="482.5" y="273.75" width="230" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="XdiqxqH-_K5ETE9k2q-7-9" value="Suggestion&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="230" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="XdiqxqH-_K5ETE9k2q-7-10" value="SUGGESTIONS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A0A0A;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="512.5" y="207" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XdiqxqH-_K5ETE9k2q-7-11" value="Autocomplete&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="990" y="100" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XdiqxqH-_K5ETE9k2q-7-12" value="&lt;font color=&quot;#ffffff&quot;&gt;Suggestions&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A0A0A;" vertex="1" parent="1">
+          <mxGeometry x="930" y="177" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XdiqxqH-_K5ETE9k2q-7-13" value="&lt;font color=&quot;#ffffff&quot;&gt;Search Input&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A0A0A;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="177" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XdiqxqH-_K5ETE9k2q-7-14" value="Suggestion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="930" y="240" width="120" height="23.75" as="geometry" />
+        </mxCell>
+        <mxCell id="XdiqxqH-_K5ETE9k2q-7-23" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0A0A0A;fillStyle=dashed;gradientColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="900" y="70" width="350" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="XdiqxqH-_K5ETE9k2q-7-24" value="&lt;font color=&quot;#ffffff&quot;&gt;type AutoComplete {&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;onInputChange: () =&amp;gt; void,&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;onOptionSelect: () =&amp;gt; void,&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;inputStyles&lt;br/&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;suggestionStyles&#x9;&lt;/span&gt;&lt;br&gt;}&lt;br&gt;&lt;br&gt;type SearchInput {&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;value: string,&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;onchange: (string) =&amp;gt; void&lt;br&gt;}&lt;br&gt;&lt;br&gt;type Suggestions {&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;suggestions: Suggestion[],&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;onOptionClick: () =&amp;gt; void,&lt;br&gt;}&lt;br&gt;&lt;br&gt;type Suggestion {&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;id: string,&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;suggestText: string,&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;suggestImg: IMG,&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;isSelected?: boolean,&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;onSelect: () =&amp;gt; void&lt;br&gt;}&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0A0A0A;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="30" width="270" height="360" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
